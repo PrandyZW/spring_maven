@@ -13,7 +13,7 @@ public class MainController {
     public String test(){
 //        实际返回的是views/test.jsp ,spring-mvc.xml中配置过前后缀
         System.out.println("test");
-        return "test";
+        return "tesssst";
     }
 
 }
